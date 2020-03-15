@@ -1,0 +1,5 @@
+1. (32 * 4) >= 129 will return false
+2. false != !true will return false
+3. true == 4 will return false
+4. false == (847 == '874') will return true. 
+5. (!true || (!(100 / 5) == 20) || ((328 / 4) == 82)) || false will return true

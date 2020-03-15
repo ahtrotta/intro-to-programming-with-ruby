@@ -1,0 +1,1 @@
+The programmer opened a section of code with a '{' but then accidentally closed it with a ')' instead of a '}'

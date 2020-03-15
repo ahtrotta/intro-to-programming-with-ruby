@@ -1,0 +1,2 @@
+In the first example, x = 3.
+In the second example a name error is thrown because x was defined within a code block and isn't available due to scope rules.

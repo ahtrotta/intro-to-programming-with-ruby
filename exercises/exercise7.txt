@@ -1,0 +1,3 @@
+The values in a hash are associated with a key value,
+while the values in an array are associated with a
+numerical index.

@@ -1,0 +1,3 @@
+It won't print anything to the screen because the block
+is never called. It will return the memory address of the 
+block.

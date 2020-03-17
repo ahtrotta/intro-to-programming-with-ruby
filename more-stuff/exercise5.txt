@@ -1,0 +1,3 @@
+In the method definition the programmer forgot to include
+the & symbol in front of block so the method wasn't expecting
+a code block to be passed in as an argument.

@@ -1,0 +1,4 @@
+Exception handling is when an error in the code is 'caught'
+and handled within the code such that the rest of the code
+can run without problem instead of prematurely halting the 
+process.
